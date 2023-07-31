@@ -64,6 +64,8 @@ class NewsPage extends StatelessWidget {
                                                       Navigator.of(context).pop();
                                                       Get.to(()=>CommentPage(data));
 
+
+
                                                     }
                                                 ),
                                               ],
